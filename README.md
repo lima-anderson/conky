@@ -22,6 +22,9 @@ sudo vim conky.conf
 
 > **Obs.:**
 The configuration file can be located in one of the following paths (the first one found will be used):
+
 > ~/.config/conky/conky.conf
+> 
 > ~/.conkyrc
+> 
 > /etc/conky/conky.conf/etc/conky/conky.conf
