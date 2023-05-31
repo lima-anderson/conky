@@ -1,7 +1,7 @@
 # Conky
 
 ```shell
-sudo apt-get update & sudo apt-get upgrade -y
+sudo apt-get update && sudo apt-get upgrade -y
 ```
 ```shell
 sudo apt-get install conky -y
