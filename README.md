@@ -15,8 +15,9 @@ cd /etc/conky
 ```shell
 sudo cp conky.conf conky.conf_backup
 ```
+```shell
+sudo apt install vim -y
 ```
-sudo apt install vim -y```
 
 ```shell
 sudo vim conky.conf
